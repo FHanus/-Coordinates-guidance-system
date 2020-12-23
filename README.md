@@ -8,9 +8,8 @@ __Contact: filiphanus1@gmail.com__
 xxx
 
 ## Specs
-Simplified 3D scanner.
-Working coordinates system, that detects holes and their coordinates.
-Used for cleaning clogged cooler pipes.
+Simplified 3D scanner/plotter.
+Working coordinates system, that detects holes and their coordinates. Used for cleaning clogged cooler pipes in PVC production..
 
 * Microcontroller: ESP32, programming in Arduino IDE. Using AccelStepper library.
 * Sensor to edge of a hole: IR line follower sensor.

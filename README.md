@@ -5,7 +5,7 @@ __Built as a long-term graduation project__
 __Contact: filiphanus1@gmail.com__
 
 ## Introduction video
-xxx
+https://youtu.be/nD9HZAxoPJQ
 
 ## Specs
 Simplified 3D scanner/plotter.

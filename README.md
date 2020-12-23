@@ -18,7 +18,7 @@ Used for cleaning clogged cooler pipes.
 * Model: Aluminium frame with PLA printed parts
 
 The details are shown in a private repository.
-Contact me on the provided email address for the full access.
+
 
 ## Parts
 
@@ -28,5 +28,4 @@ Contact me on the provided email address for the full access.
 
 * ***PCB.zip***  -> Scheme and printed circuit board layout
 
-
-
+## The details are shown in a private repository. Contact me on the provided email address for the full access.

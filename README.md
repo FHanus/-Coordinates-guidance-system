@@ -25,5 +25,4 @@ Used for cleaning clogged cooler pipes.
 
 * ***PCB.zip***  -> Scheme and printed circuit board layout
 
-## The details are shown in a private repository. 
-## Contact me on the provided email address for the full access.
+## The details are shown in a private repository. Contact me on the provided email address for the full access.

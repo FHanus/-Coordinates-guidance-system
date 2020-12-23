@@ -9,7 +9,7 @@ https://youtu.be/nD9HZAxoPJQ
 
 ## Specs
 Simplified 3D scanner/plotter.
-Working coordinates system, that detects holes and their coordinates.
+Working coordinates guidance system that detects holes and measures their coordinates.
 Created as a project for automatic cleaning of clogged cooler pipes in PVC production.
 
 * Microcontroller: ESP32, programming in Arduino IDE. Using AccelStepper library.

@@ -17,9 +17,6 @@ Used for cleaning clogged cooler pipes.
 * Movement: NEMA16 and NEMA17 motors with GT2 belt pulleys and belt, controlled by A4988 motor drivers.
 * Model: Aluminium frame with PLA printed parts
 
-The details are shown in a private repository.
-
-
 ## Parts
 
 * ***Code***    -> Full measuring code.
@@ -28,4 +25,5 @@ The details are shown in a private repository.
 
 * ***PCB.zip***  -> Scheme and printed circuit board layout
 
-## The details are shown in a private repository. Contact me on the provided email address for the full access.
+## The details are shown in a private repository. 
+## Contact me on the provided email address for the full access.

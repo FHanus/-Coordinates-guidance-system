@@ -4,6 +4,9 @@
 __Built as a long-term graduation project__     
 __Contact: filiphanus1@gmail.com__
 
+## Introduction video
+xxx
+
 ## Specs
 Simplified 3D scanner.
 Working coordinates system, that detects holes and their coordinates.

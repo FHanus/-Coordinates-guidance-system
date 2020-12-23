@@ -13,7 +13,7 @@ Working coordinates system, that detects holes and their coordinates.
 Created as a project for automatic cleaning of clogged cooler pipes in PVC production.
 
 * Microcontroller: ESP32, programming in Arduino IDE. Using AccelStepper library.
-* Sensor to edge of a hole: IR line follower sensor.
+* Sensor to detect the edge of a hole: IR line follower sensor.
 * Movement: NEMA16 and NEMA17 motors with GT2 belt pulleys and belt, controlled by A4988 motor drivers.
 * Model: Aluminium frame with PLA printed parts
 
